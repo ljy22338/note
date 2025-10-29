@@ -749,7 +749,7 @@
           <mxGeometry x="814" y="634" width="173" height="26" as="geometry" />
         </mxCell>
         <mxCell id="267" value="Keyboard Shortcuts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;fontStyle=0;fontSize=27;" parent="1" vertex="1">
-          <mxGeometry x="325" y="-77" width="281" height="51.5" as="geometry" />
+          <mxGeometry x="321" y="-126" width="281" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="274" value="Ctrl+Shift+K" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="834" y="220.9999999999999" width="88" height="26" as="geometry" />
@@ -910,7 +910,7 @@
           <mxGeometry x="254" y="1058" width="156" height="26" as="geometry" />
         </mxCell>
         <mxCell id="331" value="Cmd instead of Ctrl, Option instead of Alt for macOS " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#777777;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="574" y="31.25" width="456" height="26" as="geometry" />
+          <mxGeometry x="310" y="-43" width="456" height="26" as="geometry" />
         </mxCell>
         <mxCell id="334" value="Alt+C" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1194" y="766.9999999999998" width="117" height="26" as="geometry" />
