@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="150dc974-5404-6732-309c-fd6db42db779">
-    <mxGraphModel dx="1130" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,7 +749,7 @@
           <mxGeometry x="814" y="634" width="173" height="26" as="geometry" />
         </mxCell>
         <mxCell id="267" value="Keyboard Shortcuts" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;fontStyle=0;fontSize=27;" parent="1" vertex="1">
-          <mxGeometry x="260" y="18.5" width="281" height="51.5" as="geometry" />
+          <mxGeometry x="325" y="-77" width="281" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="274" value="Ctrl+Shift+K" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="834" y="220.9999999999999" width="88" height="26" as="geometry" />
